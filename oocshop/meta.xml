@@ -1,0 +1,84 @@
+<meta>
+    <oop>true</oop>
+	<file src = "files/dollar.png" />
+	<file src = "files/dollar2.png" />
+	<file src = "files/gem.png" />
+	<file src = "files/particle.png" />
+	<file src = "files/sagclick.png" />
+	<file src = "files/tick.png" />
+
+	<file src = "files/vehs/audi rs7.png" />
+	<file src = "files/vehs/bmw g82.png" />
+	<file src = "files/vehs/ferrari.png" />
+	<file src = "files/vehs/g63.png" />
+	<file src = "files/vehs/gtr.png" />
+	<file src = "files/vehs/lambo.png" />
+	<file src = "files/vehs/mclaren.png" />
+	<file src = "files/vehs/motor.png" />
+	<file src = "files/vehs/mustang gt.png" />
+	<file src = "files/vehs/pegassi.png" />
+	<file src = "files/vehs/porche.png" />
+	<file src = "files/vehs/rolls royce.png" />
+	<file src = "files/vehs/supra.png" />
+	
+	<file src = "files/stage/st1.png" />
+	<file src = "files/stage/st2.png" />
+	<file src = "files/stage/st3.png" />
+	<file src = "files/stage/zirh.png" />
+
+	<file src = "files/pages/drive.png" />
+	<file src = "files/pages/fast.png" />
+	<file src = "files/pages/gem.png" />
+	<file src = "files/pages/histogram.png" />
+	<file src = "files/pages/home.png" />
+	<file src = "files/pages/rifle.png" />
+	<file src = "files/pages/shop.png" />
+	<file src = "files/pages/tag.png" />
+	<file src = "files/pages/vip.png" />
+	
+	<file src = "files/main/camfilm.png" />
+	<file src = "files/main/cartexture.png" />
+	<file src = "files/main/ekarac.png" />
+	<file src = "files/main/ekev.png" />
+	<file src = "files/main/ekkarakter.png" />
+	<file src = "files/main/jail.png" />
+	<file src = "files/main/kadidegis.png" />
+	<file src = "files/main/kismidegis.png" />
+	<file src = "files/main/oyunsaati.png" />
+	<file src = "files/main/plate.png" />
+	<file src = "files/main/privateno.png" />
+	<file src = "files/main/stk.png" />
+
+	<file src = "files/etiket/1.png" />
+	<file src = "files/etiket/2.png" />
+	<file src = "files/etiket/3.png" />
+	<file src = "files/etiket/4.png" />
+	<file src = "files/etiket/5.png" />
+	<file src = "files/etiket/6.png" />
+	<file src = "files/etiket/7.png" />
+	<file src = "files/etiket/8.png" />
+	<file src = "files/etiket/10.png" />
+	<file src = "files/etiket/11.png" />
+	<file src = "files/etiket/12.png" />
+	<file src = "files/etiket/13.png" />
+	<file src = "files/etiket/14.png" />
+	<file src = "files/etiket/15.png" />
+	<file src = "files/etiket/16.png" />
+	<file src = "files/etiket/17.png" />
+	<file src = "files/etiket/18.png" />
+	<file src = "files/etiket/19.png" />
+	<file src = "files/etiket/20.png" />
+	<file src = "files/etiket/21.png" />
+	<file src = "files/etiket/22.png" />
+	<file src = "files/etiket/23.png" />
+	<file src = "files/etiket/24.png" />
+	<file src = "files/etiket/25.png" />
+	
+	<file src = "files/char/welcomecha.png" />
+	
+	<file src = "key.mp3" />
+
+    <script src = "lua/config.lua" type = "shared" cache = "false" />
+    <script src = "lua/client.lua" type = "client" cache = "false" />
+    <script src = "lua/editbox.lua" type = "client" cache = "false" />
+</meta>
